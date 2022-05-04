@@ -6,7 +6,7 @@
   "author": "Chris Blackburn",
   "license": "ISC",
   "dependencies": {
-    "angular": "^1.7.2",
+    "angular": "^1.8.3",
     "downloadjs": "^1.4.7",
     "lodash": "^4.17.13"
   },
